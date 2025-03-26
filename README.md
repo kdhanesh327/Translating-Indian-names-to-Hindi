@@ -81,4 +81,4 @@ This project performs task of translating Indian Names to Hindi, a sequence-to-s
       ```
 
 ## Author
-- **Naveen Kumar Pallekonda**
+- **Dhanesh Kumar**
