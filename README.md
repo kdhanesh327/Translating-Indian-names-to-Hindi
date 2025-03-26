@@ -77,7 +77,7 @@ This project performs task of translating Indian Names to Hindi, a sequence-to-s
    2. **Run the Code**:
       To run the model, simply execute the Python script:
       ```bash
-      python PALLEKONDA_NAVEEN_KUMAR_22915_assignment3.py
+      python DHANESH_KUMAR_22476_assignment3.py
       ```
 
 ## Author
